@@ -1,5 +1,5 @@
 # STS
-Scrap Mechanic - Standard Train System
+Scrap Mechanic - Scrap Train Standards
 
 The Goal of this Project is to make more of the Workshop Tiles compatible with each other through Standardization. This will allow for many combinations of tiles and make it easy for everyone to create a unique World fitting their Playstyle.
 How do I contribute?
