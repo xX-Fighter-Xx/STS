@@ -1,0 +1,45 @@
+{
+   "dependencies" : [
+      {
+         "fileId" : 1357816385,
+         "localId" : "4345e76b-f43a-4f9a-b2ea-0f11735e183c",
+         "name" : "Terrain Assets by sKITzo"
+      },
+      {
+         "fileId" : 1686374919,
+         "localId" : "54ae755f-6c04-42b2-b6dc-e76b68ffb81d",
+         "name" : "SM Official Items Assets"
+      },
+      {
+         "fileId" : 1331879173,
+         "localId" : "740ff0f9-9700-4ace-a980-5099bd3807f4",
+         "name" : "Terrain Assets by Lord Pain"
+      },
+      {
+         "fileId" : 2829482601,
+         "localId" : "86f5ec81-6e79-47e4-8521-e2226a4670ea",
+         "name" : "FIghters Railroad Assets"
+      },
+      {
+         "fileId" : 2635569919,
+         "localId" : "92261fcc-9ce1-4201-9d3e-8d16d459a665",
+         "name" : "New Train Assets"
+      },
+      {
+         "fileId" : 3164212160,
+         "localId" : "971191f0-1a93-4916-aca2-aa990b2a74b4",
+         "name" : "Train Stuff (Toggleable Parts)"
+      },
+      {
+         "fileId" : 2441464135,
+         "localId" : "b3cc73ca-b5d7-4e6f-9aec-935e1b18cf3e",
+         "name" : "Wrecks asset"
+      }
+   ],
+   "description" : "",
+   "fileId" : 3205712159,
+   "localId" : "e876c2fc-cb9d-4f98-8221-afab1e8c34a2",
+   "name" : "Replacement Rails.tile",
+   "type" : "Tile",
+   "version" : 1
+}
