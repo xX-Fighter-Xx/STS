@@ -1,5 +1,4 @@
-# STS
-Scrap Mechanic - Scrap Train Standards
+# Scrap Mechanic - Scrap Train Standards
 
 ![Picture of a STS](./STS%20Preview.png)
 
@@ -18,11 +17,17 @@ E.g., Custom Radius Curves, Special Switches, Crossings etc.
 (one square in the Tile builder Grid corresponds to 1 Block ingame) 
 !IMPORTANT! 1 Block does NOT equal 1.00 in the coordinates but 0.25!
 
+![Picture of a Standards](./STS-1.png)
+
 How do I get the Replacement Rails tile into my Tile editor and copy the Rails from there?
 Download the Replacement Rails Tile from GitHub and paste it into the following folder
-AppData\Roaming\Axolot Games\Scrap Mechanic\User\User_ID\Tiles
+
+_AppData\Roaming\Axolot Games\Scrap Mechanic\User\User_ID\Tiles_
+
 Then open it in your Tile editor like you would any other tile.
 Additionally, more Template tiles can be found on GitHub as well.
+
+![Picture of a Standards 2 xD](./STS-2.png)
 
 Copy and Paste between Tiles:
 1.	Select all assets of your desired Piece of Track
