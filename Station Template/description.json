@@ -1,0 +1,18 @@
+{
+   "dependencies" : [
+      {
+         "fileId" : 1357816385,
+         "localId" : "4345e76b-f43a-4f9a-b2ea-0f11735e183c",
+         "name" : "Terrain Assets by sKITzo"
+      },
+      {
+         "fileId" : 1331879173,
+         "localId" : "740ff0f9-9700-4ace-a980-5099bd3807f4",
+         "name" : "Terrain Assets by Lord Pain"
+      }
+   ],
+   "localId" : "3ef4edd8-81b1-4d94-a2ca-c1329093f9bb",
+   "name" : "Station Template.tile",
+   "type" : "Tile",
+   "version" : 1
+}

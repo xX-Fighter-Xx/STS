@@ -1,6 +1,8 @@
 # STS
 Scrap Mechanic - Scrap Train Standards
 
+![Picture of a STS](./STS%20Preview.png)
+
 The Goal of this Project is to make more of the Workshop Tiles compatible with each other through Standardization. This will allow for many combinations of tiles and make it easy for everyone to create a unique World fitting their Playstyle.
 How do I contribute?
 -	When Creating a Tile with Train Tracks on it try to follow the given Standards as much as Possible

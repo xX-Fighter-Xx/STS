@@ -1,0 +1,28 @@
+{
+   "dependencies" : [
+      {
+         "fileId" : 1331879173,
+         "localId" : "740ff0f9-9700-4ace-a980-5099bd3807f4",
+         "name" : "Terrain Assets by Lord Pain"
+      },
+      {
+         "fileId" : 2829482601,
+         "localId" : "86f5ec81-6e79-47e4-8521-e2226a4670ea",
+         "name" : "FIghters Railroad Assets"
+      },
+      {
+         "fileId" : 2635569919,
+         "localId" : "92261fcc-9ce1-4201-9d3e-8d16d459a665",
+         "name" : "New Train Assets"
+      },
+      {
+         "fileId" : 2441464135,
+         "localId" : "b3cc73ca-b5d7-4e6f-9aec-935e1b18cf3e",
+         "name" : "Wrecks asset"
+      }
+   ],
+   "localId" : "62184f03-61be-49cf-a134-fc3c690a3ab2",
+   "name" : "Electrification Template.tile",
+   "type" : "Tile",
+   "version" : 1
+}

@@ -1,0 +1,13 @@
+{
+   "dependencies" : [
+      {
+         "fileId" : 1331879173,
+         "localId" : "740ff0f9-9700-4ace-a980-5099bd3807f4",
+         "name" : "Terrain Assets by Lord Pain"
+      }
+   ],
+   "localId" : "f481eb83-942b-4e80-a855-1f534e752cda",
+   "name" : "Tile Connection Template Medium.tile",
+   "type" : "Tile",
+   "version" : 1
+}
